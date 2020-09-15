@@ -37,7 +37,6 @@
             <version>3.25.2</version>
         </dependency>
 
-        <!--lombok for getters/setters in entity-->
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
