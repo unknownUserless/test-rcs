@@ -4,6 +4,8 @@
 
 $ git clone https://github.com/unknownUserless/test-rcs
 
+After that open test-rcs/ and you are ready to start
+
 ## Run
 
 $ mvn spring-boot:run
